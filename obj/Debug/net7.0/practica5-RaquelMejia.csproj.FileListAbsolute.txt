@@ -1,0 +1,14 @@
+C:\Users\Isaí Meléndez\Desktop\Repositorio_Practicas\practica5-RaquelMejia\obj\Debug\net7.0\practica5-RaquelMejia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaí Meléndez\Desktop\Repositorio_Practicas\practica5-RaquelMejia\obj\Debug\net7.0\practica5-RaquelMejia.AssemblyInfoInputs.cache
+C:\Users\Isaí Meléndez\Desktop\Repositorio_Practicas\practica5-RaquelMejia\obj\Debug\net7.0\practica5-RaquelMejia.AssemblyInfo.cs
+C:\Users\Isaí Meléndez\Desktop\Repositorio_Practicas\practica5-RaquelMejia\obj\Debug\net7.0\practica5-RaquelMejia.csproj.CoreCompileInputs.cache
+C:\Users\Isaí Meléndez\Desktop\Repositorio_Practicas\practica5-RaquelMejia\bin\Debug\net7.0\practica5-RaquelMejia.exe
+C:\Users\Isaí Meléndez\Desktop\Repositorio_Practicas\practica5-RaquelMejia\bin\Debug\net7.0\practica5-RaquelMejia.deps.json
+C:\Users\Isaí Meléndez\Desktop\Repositorio_Practicas\practica5-RaquelMejia\bin\Debug\net7.0\practica5-RaquelMejia.runtimeconfig.json
+C:\Users\Isaí Meléndez\Desktop\Repositorio_Practicas\practica5-RaquelMejia\bin\Debug\net7.0\practica5-RaquelMejia.dll
+C:\Users\Isaí Meléndez\Desktop\Repositorio_Practicas\practica5-RaquelMejia\bin\Debug\net7.0\practica5-RaquelMejia.pdb
+C:\Users\Isaí Meléndez\Desktop\Repositorio_Practicas\practica5-RaquelMejia\obj\Debug\net7.0\practica5-RaquelMejia.dll
+C:\Users\Isaí Meléndez\Desktop\Repositorio_Practicas\practica5-RaquelMejia\obj\Debug\net7.0\refint\practica5-RaquelMejia.dll
+C:\Users\Isaí Meléndez\Desktop\Repositorio_Practicas\practica5-RaquelMejia\obj\Debug\net7.0\practica5-RaquelMejia.pdb
+C:\Users\Isaí Meléndez\Desktop\Repositorio_Practicas\practica5-RaquelMejia\obj\Debug\net7.0\practica5-RaquelMejia.genruntimeconfig.cache
+C:\Users\Isaí Meléndez\Desktop\Repositorio_Practicas\practica5-RaquelMejia\obj\Debug\net7.0\ref\practica5-RaquelMejia.dll
